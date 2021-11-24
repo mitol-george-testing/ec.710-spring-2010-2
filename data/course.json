@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ed134986-b322-073a-adfa-83a85fbe4f4d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "D-Lab: Medical Technologies for the Developing World",
+  "course_description": "D-Lab Health provides a multidisciplinary approach to global health technology design via guest lectures and a major project based on fieldwork. We will explore the current state of global health challenges and learn how to design medical technologies that address those problems. Students may travel to Nicaragua during spring break to work with health professionals, using medical technology design kits to gain field experience for their device challenge. As a final class deliverable, you will create a product design solution to address challenges observed in the field. The resulting designs are prototyped in the summer for continued evaluation and testing.\n",
+  "department_numbers": [
+    "EC"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "EC.710",
+  "learning_resource_types": [
+    "Design Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
